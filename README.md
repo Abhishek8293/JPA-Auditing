@@ -1,7 +1,15 @@
 # JPA-Auditing
 
 
-This repository provides an example of implementing auditing with JPA (Java Persistence API). Auditing allows tracking changes to entities such as creation time, modification time, and the user responsible for the change.
+JPA Auditing is a feature provided by Spring Data JPA that simplifies the process of tracking changes made to entities in your application. It automatically logs who created and modified your entities (database records) and when these changes occurred.
+
+
+
+## Benefits
+
+- Reduced Code: Eliminates the need for manual code to track creation/modification information.
+- Consistency: Ensures timestamps and user information are populated consistently across your application.
+- Improved Auditing: Simplifies audit trails by automatically capturing user and timestamp data for entity changes.
 
 ## Features
 

@@ -22,7 +22,7 @@ This repository provides an example of implementing auditing with JPA (Java Pers
 1. Clone this repository:
 
     ```bash
-    git clone (https://github.com/Abhishek8293/JPA-Auditing.git)
+    git clone [https://github.com/Abhishek8293/JPA-Auditing.git]
     ```
 
 2. Navigate to the project directory:
